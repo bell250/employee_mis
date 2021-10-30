@@ -1,7 +1,7 @@
 # Employee Management System 
 
 Hello There, I have made a simple UI and basic SQL commands to make this project.
-Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on the internet and so on. 
+Created with help of YouTube, Google, GitHub, Stack Overflow and so on. 
 
 ## This site features:
 ### Admin Panel:
