@@ -1,4 +1,4 @@
-# Employee Management System Database
+# Employee Management System 
 
 Hello There, I have made a simple UI and basic SQL commands to make this project.
 Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on the internet and so on. 
@@ -6,16 +6,16 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 ## This site features:
 ### Admin Panel:
 * Different Login system for Admin and Employees.
-* Admin can add new employees, 
-* Admin can activate employee, 
-* Admin can disactivate employee, 
-* Admin can suspend employee
+* Manager can add new employees, 
+* Manager can activate employee, 
+* Manager can disactivate employee, 
+* Manager can suspend employee
 
 
-### User Panel:
+### Employee:
 
 * Can view own profile and update the basic infos.
-* Submit the project.
+*
 
 
 ## Languages used for this projects are:
@@ -32,10 +32,9 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 3. Goto phpmyadmin and create a database named **370project** and then import the file named **370project.sql**
 4. Then launch the site.
 
-## Login Info:
+## Login  default Info:
 ### Admin Panel:
 ID: admin
-
 Pass: admin
 
 ### User Panel:
