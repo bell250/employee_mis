@@ -23,6 +23,7 @@ Created with help of YouTube, Google, GitHub, Stack Overflow and so on.
 * CSS
 * Javascript
 * My SQL
+* php
 
 ### ER Diagram and Relational Schema is also provided as PDF's. 
 
